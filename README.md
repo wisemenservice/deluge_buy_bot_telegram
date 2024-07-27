@@ -1,2 +1,18 @@
-# deluge_buy_bot_telegram
-Buy bot D.BuyBot Source Codes (FOR TELEGRAM) 🔥 Telegram SOL Buy Bot! Solana Trending Bot Source Code, TG Bot, SOL Network @delugebuybot. https://t.me/delugebuybot Buy Bot for Telegram Source CODES. Python Javascript BSC ETH SOL
+# ‼ SOLANA TELEGRAM BUY BOT SOURCE CODES (@delugebuybot) ‼
+● You cannot run the bot using the .py code from this repository. This requires the full version of the bot. ❗
+
+● DM me from Telegram (https://t.me/wisemenservices) if you want to buy full version of the bot. 📭
+
+● Prices are negotiable. 👍
+# !! FEATURES !!
+✅ FULL source codes of "https://t.me/delugebuybot"!
+
+✅ Works on Telegram!
+
+✅ Fast and optimized code!
+
+✅ Real source codes!
+
+✅ Cheap Prices!
+
+✅ DM me for more info.
